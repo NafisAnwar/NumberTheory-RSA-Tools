@@ -47,17 +47,17 @@ This repository provides a practical, educational introduction to RSA cryptograp
    Encrypt/decrypt sample messages.
    Demonstrate repeated squaring and verify theoretical computations like E(D(x)) = x.
 
-6. Customization
-   Modify p, q, and e directly in the source code if you prefer not to prompt for them.
-   Add additional functions for factorization, computing φ(φ(n)), or verifying Euler’s theorem.
-   Extend the program to accept larger primes for a more realistic demonstration (though performance and security are not    the primary goals).
+## Customization
+Modify p, q, and e directly in the source code if you prefer not to prompt for them.
+Add additional functions for factorization, computing φ(φ(n)), or verifying Euler’s theorem.
+Extend the program to accept larger primes for a more realistic demonstration (though performance and security are not    the primary goals).
 
-7. Educational Use
-   This code and workflow is ideal for students completing discrete math or introductory cryptography assignments. It shows how theory translates into working code and provides a transparent view into each step of the RSA process.
+## Educational Use:
+This code and workflow is ideal for students completing discrete math or introductory cryptography assignments. It shows how theory translates into working code and provides a transparent view into each step of the RSA process.
 
-8. Contributing
-   Contributions are welcome! If you have suggestions for improvements, additional features, or educational aids:
+## Contributing
+Contributions are welcome! If you have suggestions for improvements, additional features, or educational aids:
 
-9. Fork the repository.
-   Create a new branch with a descriptive name.
-   Make your changes and submit a pull request.
+##Fork the repository.
+Create a new branch with a descriptive name.
+Make your changes and submit a pull request.

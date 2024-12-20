@@ -52,7 +52,7 @@ Modify p, q, and e directly in the source code if you prefer not to prompt for t
 Add additional functions for factorization, computing φ(φ(n)), or verifying Euler’s theorem.
 Extend the program to accept larger primes for a more realistic demonstration (though performance and security are not    the primary goals).
 
-## Educational Use:
+## Educational Use
 This code and workflow is ideal for students completing discrete math or introductory cryptography assignments. It shows how theory translates into working code and provides a transparent view into each step of the RSA process.
 
 ## Contributing
